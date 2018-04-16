@@ -17,3 +17,44 @@ ss10842
 * | 6f2bf8c 2nd commit (1st on branch1).
 |/  
 * 140c17d 1st commit (1st on master).
+
+xs857
+*   8163c01 9th commit
+|\
+| *   48c2c66 8th commit(3nd on b3)
+| |\
+| * | 9ba3d2e 6th commit(2nd on b3)
+* | |   7cf632b 7th commit(3nd on b2)
+|\ \ \
+| | |/
+| |/|
+| * |   e6c014e 4th commit
+| |\ \
+| | |/
+| | * fd2663e 3rd commit(first on b3)
+* | | def42ec 5th commit(2nd on b2)
+|/ /
+* | 3a4c403 2nd commit(first on b2)
+|/
+* 7325e2e 1st commit
+
+zw1465
+*   0d23444 9th commit (3rd on master).
+|\
+| *   94149a7 8th commit (3rd on t2).
+| |\
+| * | b45871c 6th commit (2rd on t2).
+* | |   10c5a9a 7th commit (3rd on t1).
+|\ \ \
+| | |/
+| |/|
+| * |   2d7d2b8 4th commit (2rd on master).
+| |\ \
+| | |/
+| | * 60ec5dc 3th commit (2rd on t2).
+* | | 5677917 5th commit (2rd on t1).
+|/ /
+* | 3a71ff3 2th commit (1nd on t1).
+|/
+* 97021eb 1st commit (1st on master).
+
