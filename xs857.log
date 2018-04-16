@@ -1,24 +1,4 @@
-xs857
-*   8163c01 9th commit
-|\  
-| *   48c2c66 8th commit(3nd on b3)
-| |\  
-| * | 9ba3d2e 6th commit(2nd on b3)
-* | |   7cf632b 7th commit(3nd on b2)
-|\ \ \  
-| | |/  
-| |/|   
-| * |   e6c014e 4th commit
-| |\ \  
-| | |/  
-| | * fd2663e 3rd commit(first on b3)
-* | | def42ec 5th commit(2nd on b2)
-|/ /  
-* | 3a4c403 2nd commit(first on b2)
-|/  
-* 7325e2e 1st commit
-
-ss10842
+s10842
 *   6cff0b0 9th commit (3rd on master).
 |\
 | *   9dc69f2 8th commit (3rd on branch2).
@@ -37,6 +17,26 @@ ss10842
 * | 6f2bf8c 2nd commit (1st on branch1).
 |/
 * 140c17d 1st commit (1st on master).
+
+xs857
+*   8163c01 9th commit
+|\
+| *   48c2c66 8th commit(3nd on b3)
+| |\
+| * | 9ba3d2e 6th commit(2nd on b3)
+* | |   7cf632b 7th commit(3nd on b2)
+|\ \ \
+| | |/
+| |/|
+| * |   e6c014e 4th commit
+| |\ \
+| | |/
+| | * fd2663e 3rd commit(first on b3)
+* | | def42ec 5th commit(2nd on b2)
+|/ /
+* | 3a4c403 2nd commit(first on b2)
+|/
+* 7325e2e 1st commit
 
 zw1465
 *   0d23444 9th commit (3rd on master).
